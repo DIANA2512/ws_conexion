@@ -1,0 +1,144 @@
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll.config
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\WS_Conexion.pdb
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe.config
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\csc.rsp
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\csi.exe
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\csi.rsp
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\System.AppContext.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe.config
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\vbc.rsp
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CopyComplete
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.dll
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.pdb
+C:\Users\Inveligent\source\repos\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csprojAssemblyReference.cache
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll.config
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\WS_Conexion.pdb
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe.config
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\csc.rsp
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\csi.exe
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\csi.rsp
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\System.AppContext.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe.config
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\vbc.rsp
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csprojAssemblyReference.cache
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CoreCompileInputs.cache
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CopyComplete
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.dll
+E:\Proyecto\Pronaca\MMS Inaexpo\Fuentes\Movil\ANDORID\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.pdb
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll.config
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\WS_Conexion.pdb
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe.config
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\csc.rsp
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\csi.exe
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\csi.rsp
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\System.AppContext.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe.config
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\vbc.rsp
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CopyComplete
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.dll
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.pdb
+C:\Users\diaza\Desktop\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csprojAssemblyReference.cache
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll.config
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\WS_Conexion.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\WS_Conexion.pdb
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\csc.exe.config
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\csc.rsp
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\csi.exe
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\csi.rsp
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\System.AppContext.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\vbc.exe.config
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\vbc.rsp
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csprojAssemblyReference.cache
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.csproj.CopyComplete
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.dll
+C:\Users\Teffy\Desktop\Informacion Tesis\WS_Conexion\WS_Conexion\obj\Release\WS_Conexion.pdb

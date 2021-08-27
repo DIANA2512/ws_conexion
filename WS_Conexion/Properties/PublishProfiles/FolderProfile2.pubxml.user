@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Teffy\Desktop\dcqasda</_PublishTargetUrl>
+    <History>True|2021-06-24T18:14:59.9143775Z;True|2021-06-23T20:21:10.0292235-05:00;True|2021-06-23T18:24:37.9403303-05:00;True|2021-06-23T18:05:00.6752163-05:00;True|2021-06-17T18:22:33.1520825-05:00;False|2021-06-17T18:21:40.5438781-05:00;True|2021-06-17T15:57:00.9760581-05:00;True|2021-06-15T18:58:12.3242348-05:00;True|2021-06-15T18:55:21.4816946-05:00;True|2021-06-15T17:30:11.5647432-05:00;True|2021-06-10T17:21:30.4044296-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/03/2020 13:10:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>09/03/2020 13:10:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/03/2020 13:10:09</publishTime>
+    </File>
+    <File Include="bin/WS_Conexion.dll">
+      <publishTime>06/24/2021 13:14:48</publishTime>
+    </File>
+    <File Include="bin/WS_Conexion.pdb">
+      <publishTime>06/24/2021 13:14:48</publishTime>
+    </File>
+    <File Include="Service_Bdd.asmx">
+      <publishTime>09/03/2020 13:09:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/23/2021 18:04:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
